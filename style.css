@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+}
+.title1{
+    color: #298584;
+    font-size: calc(20px + 5vw);
+    text-align: justify;
+    padding-top : 30px;
+    
+
+}
+.orng{
+    color: chocolate;
+    font-size: calc(7px + 2vw);
+
+}
+.butn{
+    
+    background-color:#298584 ;
+    text-align: center;
+    margin-left: calc(9px + 40vw);
+    border-radius: 10%;
+    box-shadow: darkcyan;
+    margin-top: 30px;
+    
+}
